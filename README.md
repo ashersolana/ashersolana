@@ -14,7 +14,7 @@ I build AI-powered tools on Solana. Currently focused on making Web3 accessible 
 - 🌐 **Live:** [ashersolana.github.io/SolAura](https://ashersolana.github.io/SolAura)
 - 📂 **GitHub:** [github.com/ashersolana/SolAura](https://github.com/ashersolana/SolAura)
 - 💬 Manage your Solana wallet using plain English
-- 🔒 Open source — built for the community
+- 🔒 Open source  built for the community
 
 ---
 
