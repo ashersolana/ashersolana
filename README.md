@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey, I'm Asher 👋
 
-<!--
-**ashersolana/ashersolana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Solana Builder | AI Developer | UK 🇬🇧
 
-Here are some ideas to get you started:
+I build AI-powered tools on Solana. Currently focused on making Web3 accessible to everyone through natural language interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Building
+
+### SolAura ✦
+> The AI-powered Solana wallet assistant
+
+- 🌐 **Live:** [ashersolana.github.io/SolAura](https://ashersolana.github.io/SolAura)
+- 📂 **GitHub:** [github.com/ashersolana/SolAura](https://github.com/ashersolana/SolAura)
+- 💬 Manage your Solana wallet using plain English
+- 🔒 Open source — built for the community
+
+---
+
+## 🛠️ Tech Stack
+
+- **Blockchain:** Solana, @solana/web3.js, Wallet Adapter
+- **Frontend:** React, Tailwind CSS
+- **AI:** Advanced Language Models
+- **Tools:** GitHub, Vercel
+
+---
+
+## 🌍 Connect
+
+- 🐦 X: [@EliteCryptoLord](https://x.com/EliteCryptoLord)
+- 💻 GitHub: [@ashersolana](https://github.com/ashersolana)
+
+---
+
+*Building the future of Web3, one commit at a time* ✦
